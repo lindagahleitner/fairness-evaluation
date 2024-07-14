@@ -34,6 +34,10 @@ The project aims to develop a predictive machine learning model using the AIF360
 9. Comparison AIF360 vs DALEX Fairness
     - 9.1 Features
     - 9.2 Usability
+  
+## Data 
+
+The data used in this project was obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/373/drug+consumption+quantified). The dataset contains information about various personal and demographic attributes and their relation to drug consumption.
 
 ## Installation
 
